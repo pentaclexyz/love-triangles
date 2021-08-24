@@ -14,7 +14,7 @@ Python code to create a Julia and a Mandelbrot fractal.
 ### Run
 
 ```
-> python JuliaInPythonAndTk.py
+$ python JuliaInPythonAndTk.py
 ```
 
 
