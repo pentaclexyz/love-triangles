@@ -1,7 +1,6 @@
 https://raoulm.home.xs4all.nl/fractals/Fractals/Fractals.html
 
 
-
 ### Fractals 
 
 Python code to create a Julia and a Mandelbrot fractal.
@@ -11,11 +10,13 @@ Runs from the command line on Mac OSX.
 I also tested it on Ubuntu: after installing python-tk through the Synaptic package manager, it runs.
 
 
-Open a terminal on the directory with the code below, and type
+### Run
 
->python JuliaInPythonAndTk.py
+```
+> python JuliaInPythonAndTk.py
+```
 
-to run.
+
 
 
 
