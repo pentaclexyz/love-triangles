@@ -10,15 +10,16 @@ Runs from the command line on Mac OSX.
 I also tested it on Ubuntu: after installing python-tk through the Synaptic package manager, it runs.
 
 
+### Set up
+
+```$ git clone git@github.com:pentacledotai/fractals.git```
+
+
 ### Run
 
 ```
 > python JuliaInPythonAndTk.py
 ```
-
-
-
-
 
 
 Fractal functions
