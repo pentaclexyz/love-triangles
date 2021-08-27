@@ -1,9 +1,13 @@
+### linkies
+
+https://www.ultrafractal.com
+
 https://www.mdpi.com/2071-1050/13/2/823/htm
 
 https://raoulm.home.xs4all.nl/fractals/Fractals/Fractals.html
 
 
-### Fractals 
+## Fractals - some ancient python script
 
 Python code to create a Julia and a Mandelbrot fractal.
 
