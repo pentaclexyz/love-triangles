@@ -13,6 +13,8 @@ https://orderinchoas.wordpress.com/tag/alex-grey/
 
 https://orderinchoas.wordpress.com/tag/chaos-theory/
 
+https://www.utpjournals.press/doi/pdf/10.3138/uram.17.3.184
+
 
 
 
