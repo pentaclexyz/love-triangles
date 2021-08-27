@@ -1,3 +1,5 @@
+https://www.mdpi.com/2071-1050/13/2/823/htm
+
 https://raoulm.home.xs4all.nl/fractals/Fractals/Fractals.html
 
 
@@ -8,7 +10,7 @@ Python code to create a Julia and a Mandelbrot fractal.
 
 ### Set up
 
-```$ git clone git@github.com:pentacledotai/fractals.git```
+```$ git clone git@github.com:pentacledotai/love-triangles.git```
 
 
 ### Run
