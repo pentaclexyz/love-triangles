@@ -11,6 +11,8 @@ https://raoulm.home.xs4all.nl/fractals/Fractals/Fractals.html
 
 https://orderinchoas.wordpress.com/tag/alex-grey/
 
+https://orderinchoas.wordpress.com/tag/chaos-theory/
+
 
 
 
