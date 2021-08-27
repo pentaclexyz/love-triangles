@@ -11,6 +11,10 @@
 
 ### Other linkies
 
+[The logistic map](https://youtu.be/ovJcsL7vyrk)
+
+[Mandelbrot mini doco](https://www.youtube.com/watch?v=56gzV0od6DU)
+
 [Fractal rendering and animation software](https://www.ultrafractal.com)
 
 [some refs to fractals in nature and architecture](https://www.mdpi.com/2071-1050/13/2/823/htm)
