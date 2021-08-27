@@ -15,6 +15,7 @@ https://orderinchoas.wordpress.com/tag/chaos-theory/
 
 https://www.utpjournals.press/doi/pdf/10.3138/uram.17.3.184
 
+https://youtu.be/gB9n2gHsHN4
 
 
 
