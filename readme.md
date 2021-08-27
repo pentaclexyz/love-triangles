@@ -15,6 +15,8 @@ https://orderinchoas.wordpress.com/tag/chaos-theory/
 
 https://www.utpjournals.press/doi/pdf/10.3138/uram.17.3.184
 
+https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle
+
 https://youtu.be/gB9n2gHsHN4
 
 
