@@ -1,3 +1,6 @@
+```“Fractal Geometry plays two roles. It is the geometry of deterministic chaos and it can also describe the geometry of mountains, clouds and galaxies.” – (Benoit Mandelbrot – 1984)```
+
+
 ### Linkies
 
 https://www.ultrafractal.com
@@ -7,6 +10,7 @@ https://www.mdpi.com/2071-1050/13/2/823/htm
 https://raoulm.home.xs4all.nl/fractals/Fractals/Fractals.html
 
 https://orderinchoas.wordpress.com/tag/alex-grey/
+
 
 
 
