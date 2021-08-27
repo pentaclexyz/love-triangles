@@ -1,10 +1,14 @@
-### linkies
+### Linkies
 
 https://www.ultrafractal.com
 
 https://www.mdpi.com/2071-1050/13/2/823/htm
 
 https://raoulm.home.xs4all.nl/fractals/Fractals/Fractals.html
+
+https://orderinchoas.wordpress.com/tag/alex-grey/
+
+
 
 
 ## Fractals - some ancient python script
