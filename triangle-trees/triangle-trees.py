@@ -1,6 +1,6 @@
 import turtle
 
-turtle.title('Sierpinski Tree Animation - PythonTurtle.Academy')
+turtle.title('Love triangles')
 turtle.setworldcoordinates(-2000, -2000, 2000, 2000)
 screen = turtle.Screen()
 screen.tracer(0, 0)

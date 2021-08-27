@@ -11,6 +11,8 @@
 
 ### Other linkies
 
+[Basic sierpinski calculator](https://onlinemathtools.com/generate-sierpinski-sieve)
+
 [The logistic map](https://youtu.be/ovJcsL7vyrk)
 
 [Mandelbrot mini doco](https://www.youtube.com/watch?v=56gzV0od6DU)
