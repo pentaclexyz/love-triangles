@@ -8,7 +8,12 @@
 
 [3blue1brown fractals vid](https://youtu.be/gB9n2gHsHN4)
 
-(basic fractal code)[https://elc.github.io/posts/plotting-fractals-step-by-step-with-python/]
+[basic fractal code](https://elc.github.io/posts/plotting-fractals-step-by-step-with-python/)
+
+
+### Three js
+
+[three js](https://medium.com/@SereneBiologist/rendering-escape-fractals-in-three-js-68c96b385a49)
 
 
 ### Other linkies
