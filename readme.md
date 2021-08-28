@@ -8,6 +8,8 @@
 
 [3blue1brown fractals vid](https://youtu.be/gB9n2gHsHN4)
 
+(basic fractal code)[https://elc.github.io/posts/plotting-fractals-step-by-step-with-python/]
+
 
 ### Other linkies
 
