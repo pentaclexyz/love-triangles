@@ -11,9 +11,11 @@
 [basic fractal code](https://elc.github.io/posts/plotting-fractals-step-by-step-with-python/)
 
 
-### Three js
+### js refs
 
 [three js](https://medium.com/@SereneBiologist/rendering-escape-fractals-in-three-js-68c96b385a49)
+
+https://codepen.io/MaxXiong/pen/anJco?js-preprocessor=livescript
 
 
 ### Other linkies
